@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m @dsantmajor
+- 🔭 I’m currently working on AI / ML projects and integrating it for my work and building some useful toolings
 - 👀 I’m interested in contributing to OpenSource projects
 - 💞️ I’m looking to collaborate on python, golang, javascript, reactjs , html and css , Aws and GCP
 - 📫 How to reach me https://github.com/dsantmajor
