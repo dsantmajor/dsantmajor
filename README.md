@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @dsantmajor
+- 👀 I’m interested in contributing to OpenSource projects
+- 💞️ I’m looking to collaborate on python, golang, javascript, reactjs , html and css , Aws and GCP
+- 📫 How to reach me https://github.com/dsantmajor
+
