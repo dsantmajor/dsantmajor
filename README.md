@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=dsantmajor&theme=cobalt&show_icons=true&count_private=true"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsantmajor)](https://github.com/dsantmajor/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sophophilix&theme=cobalt&show_icons=true&count_private=true"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophophilix)](https://github.com/sophophilix/github-readme-stats)
+
