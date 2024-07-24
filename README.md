@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on python, golang, javascript, reactjs , html and css , Aws and GCP
 - 📫 How to reach me https://github.com/dsantmajor
 
-https://github-readme-stats.vercel.app/api?username=dsantmajor&theme=cobalt&show_icons=true&count_private=true
+
+<img src="https://github-readme-stats.vercel.app/api?username=dsantmajor&theme=cobalt&show_icons=true&count_private=true"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsantmajor)](https://github.com/dsantmajor/github-readme-stats)
